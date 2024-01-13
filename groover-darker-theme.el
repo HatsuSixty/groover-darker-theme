@@ -5,7 +5,7 @@
 ;; Copyright (C) 2009-2010 Jason R. Blevins
 
 ;; Author: Hatsu Sixty <hatsunotsus@gmail.com>
-;; URL: http://github.com/HatsuSixty/groover-darker-theme
+;; URL: https://github.com/HatsuSixty/groover-darker-theme
 ;; Version: 0.1
 
 ;; Permission is hereby granted, free of charge, to any person
